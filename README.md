@@ -135,6 +135,7 @@
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
 * [Octopus](https://github.com/pventuzelo/octopus) - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [L3X](https://github.com/VulnPlanet/l3x) - AI-driven Smart Contract Static Analyzer
+* [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Token risk scanner for EVM and Solana assets, covering liquidity, holder, ownership, authority, and honeypot signals
 * [ContractScan](https://github.com/dutchaiagency/contractscan-api) - Free client-side smart contract security scanner. Detects proxies, honeypots, rug pulls, and 11 vulnerability patterns across 6 EVM chains. Works in browser, no signup needed.
 ### Reverse Engineering
 
