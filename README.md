@@ -144,7 +144,8 @@ These tools complement static analysis by watching contracts post-deployment for
 * [Honeypot.is](https://honeypot.is/) - Quick honeypot test for ERC-20 tokens by simulating buy/sell.
 * [RektRadar](https://rektradar.io/) - Real-time Ethereum scam detector with mempool monitoring, deployer graph analysis, and factory pattern detection. Catches rug pulls mid-broadcast and flags honeypots before liquidity is added.
 * [TokenSniffer](https://tokensniffer.com/) - Automated scam detection, auditing, and metrics for ERC-20 tokens.
-
+* [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Token risk scanner for EVM and Solana assets, covering liquidity, holder, ownership, authority, and honeypot signals
+* [ContractScan](https://github.com/dutchaiagency/contractscan-api) - Free client-side smart contract security scanner. Detects proxies, honeypots, rug pulls, and 11 vulnerability patterns across 6 EVM chains. Works in browser, no signup needed.
 ### Reverse Engineering
 
 * [abi-decompiler](https://github.com/beched/abi-decompiler) - EVM reverse engineering helper utility
