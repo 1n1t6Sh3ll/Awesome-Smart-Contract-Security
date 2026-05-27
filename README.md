@@ -232,11 +232,12 @@ These tools complement static analysis by watching contracts post-deployment for
 * [Immunefi](https://immunefi.com/explore/)
 * [hackenproof](https://hackenproof.com/)
 * [ETHEREUM Bounty Program](https://bounty.ethereum.org/#bounty-scope)
+*  [Hashlock](https://hashlock.com/)
 * [Etherscan Bugbounty Program](https://etherscan.io/bugbounty)
 * [Parity Bug Bounty Program](https://www.parity.io/bug-bounty/)
 * [Gitcoint project](https://gitcoin.co/explorer?network=mainnet&idx_status=open&applicants=ALL&order_by=-web3_created)
 * [Code Arena Bugbounty project](https://code4rena.com/)
 * [Smartlink Dapps](https://www.smartlink.so/bug-bounty/)
 * [Bug Rap](https://bugrap.io/)
-* [Bug Bounty Programs 2023](https://hackenproof.com/programs?page=4)
+* [Bug Bounty Programs 2026](https://hackenproof.com/programs?page=4)
 
