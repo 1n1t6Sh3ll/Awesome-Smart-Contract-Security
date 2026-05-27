@@ -135,6 +135,15 @@
 * [Slither](https://github.com/trailofbits/slither) - Static analysis framework, written in Python, with detectors for many common Solidity issues
 * [Octopus](https://github.com/pventuzelo/octopus) - : Blockchain Smart Contracts (BTC/ETH/NEO/EOS)
 * [L3X](https://github.com/VulnPlanet/l3x) - AI-driven Smart Contract Static Analyzer
+### Runtime Monitoring & Scam Detection
+
+These tools complement static analysis by watching contracts post-deployment for honeypots, rug pulls, and adversarial deployer patterns. Most are free to use.
+
+* [GoPlus](https://gopluslabs.io/token-security-api) - Token security API covering 30+ chains with honeypot, ownership, and trading risk checks.
+* [HoneyBadger](https://github.com/christoftorres/HoneyBadger) - Honeypot detector for Ethereum smart contracts (academic, EVM bytecode).
+* [Honeypot.is](https://honeypot.is/) - Quick honeypot test for ERC-20 tokens by simulating buy/sell.
+* [RektRadar](https://rektradar.io/) - Real-time Ethereum scam detector with mempool monitoring, deployer graph analysis, and factory pattern detection. Catches rug pulls mid-broadcast and flags honeypots before liquidity is added.
+* [TokenSniffer](https://tokensniffer.com/) - Automated scam detection, auditing, and metrics for ERC-20 tokens.
 * [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Token risk scanner for EVM and Solana assets, covering liquidity, holder, ownership, authority, and honeypot signals
 * [ContractScan](https://github.com/dutchaiagency/contractscan-api) - Free client-side smart contract security scanner. Detects proxies, honeypots, rug pulls, and 11 vulnerability patterns across 6 EVM chains. Works in browser, no signup needed.
 ### Reverse Engineering
