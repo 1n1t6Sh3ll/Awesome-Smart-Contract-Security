@@ -228,7 +228,7 @@ These tools complement static analysis by watching contracts post-deployment for
 
 * [Write up of Metaplex Vuln 2022](https://github.com/Bonfida/metaplex-vulnerability-012022)
 * [Smart Contract security audit reports](https://github.com/TechRate/Smart-Contract-Audits)
-# Bug Bounty Platforms & Project
+# Bug Bounty/Audit Platforms & Project
 * [Immunefi](https://immunefi.com/explore/)
 * [hackenproof](https://hackenproof.com/)
 * [ETHEREUM Bounty Program](https://bounty.ethereum.org/#bounty-scope)
