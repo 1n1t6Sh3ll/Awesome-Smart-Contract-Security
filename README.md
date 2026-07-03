@@ -241,3 +241,7 @@ These tools complement static analysis by watching contracts post-deployment for
 * [Bug Rap](https://bugrap.io/)
 * [Bug Bounty Programs 2026](https://hackenproof.com/programs?page=4)
 
+
+
+## Web3 Security Tools
+- [MetaVision CVE Oracle](https://metavision.click/cve) - Web3 vulnerability scanner. 355k+ CVEs from NVD, specialized in Ethereum/Solidity/DeFi. Wallet fraud + rug pull detection (ChainAware). API: POST /cve {"keyword": "solidity"}
