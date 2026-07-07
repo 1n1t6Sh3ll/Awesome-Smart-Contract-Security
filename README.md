@@ -245,3 +245,4 @@ These tools complement static analysis by watching contracts post-deployment for
 
 ## Web3 Security Tools
 - [MetaVision CVE Oracle](https://metavision.click/cve) - Web3 vulnerability scanner. 355k+ CVEs from NVD, specialized in Ethereum/Solidity/DeFi. Wallet fraud + rug pull detection (ChainAware). API: POST /cve {"keyword": "solidity"}
+- [Kerne Verify Anything](https://kerne.fi/verify-anything) - Free, open, no-login client-side tool to verify any stablecoin's on-chain reserves, signed reserve attestations, and ERC-4626 vault accounting in the browser.
